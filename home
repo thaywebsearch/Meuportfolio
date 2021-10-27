@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meu Portfolio</title>
+</head>
+<body>
+
+<h1>Conspiração dos Mercados Bolsistas</h1>
+
+<p>Noticias, analises, informações uteis sobre as ações dos Mercados da Bolsa de Valores.</p>
+
+<h2>The Coca-Cola Company (KO)</h2>
+
+<a href="https://finance.yahoo.com/quote/KO?p=KO&.tsrc=fin-srch">KO y.finance link</a>
+
+<p>
+Estarão as ações da Coca-Cola a um preço justo!<br>
+ com base na análise que fiz hoje ao preço por ação da Coca-Cola eis o que os dados me revelam.<br>
+ Estando o preço alvo médio fixado em 61.98 e considerando o preço alvo baixo nos 55.00 e o preço alvo alto nos 67.00,<br>
+ com o preço atual de 55.60 este valor ficou um pouco longe da média esperada, numa escala em que 1 considero uma compra forte,<br>
+ 2 uma compra, 3 mantenho, 4 abaixo do esperado e 5 uma venda, atribuo um 3.
+</p>
+
+</body>
+</html>
